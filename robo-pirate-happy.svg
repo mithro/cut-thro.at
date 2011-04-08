@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="robo-pirate-happy.svg"
+   inkscape:export-filename="/home/tansell/tmep/cut-thro.at/robo-pirate-happy.png"
+   inkscape:export-xdpi="43.599998"
+   inkscape:export-ydpi="43.599998">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -237,14 +240,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="189.9788"
-     inkscape:cy="360.78971"
+     inkscape:cy="355.07542"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1022"
-     inkscape:window-height="688"
+     inkscape:window-width="1280"
+     inkscape:window-height="766"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -265,7 +268,7 @@
      transform="translate(-230.73549,-5.1266798)">
     <g
        id="g3866"
-       transform="translate(1082.8571,-134.28571)">
+       transform="matrix(-1,0,0,1,204.25182,-134.28571)">
       <g
          transform="matrix(0.45905795,0.61426815,-0.53637672,0.52572132,-301.7988,368.24186)"
          id="g3789">

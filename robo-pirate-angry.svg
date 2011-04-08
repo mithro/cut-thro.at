@@ -238,9 +238,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
+     inkscape:zoom="0.35"
      inkscape:cx="315.74704"
-     inkscape:cy="548.16434"
+     inkscape:cy="545.3072"
      inkscape:document-units="px"
      inkscape:current-layer="g3613"
      showgrid="false"
@@ -270,7 +270,7 @@
        id="g3866"
        transform="translate(1082.8571,-134.28571)">
       <g
-         transform="matrix(0.45905795,0.61426815,-0.53637672,0.52572132,-301.7988,368.24186)"
+         transform="matrix(-0.45905795,0.61426815,0.53637672,0.52572132,-576.80648,368.24186)"
          id="g3789">
         <path
            style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -310,15 +310,16 @@
       </g>
       <rect
          y="597.75641"
-         x="-611.74866"
+         x="266.85663"
          height="380.6402"
          width="289.21164"
          id="rect3690"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.95981288;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.95981288;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <path
          sodipodi:nodetypes="csssc"
          id="path3692"
-         d="m -468.57143,722.36218 c 0,59.17337 32.49749,101.42857 -1.42857,101.42857 -33.92606,0 1.42857,-39.39806 1.42857,-98.57143 0,-59.17337 -35.35463,-115.71429 -1.42857,-115.71429 33.92606,0 1.42857,53.68378 1.42857,112.85715 z"
+         d="m -410.03385,722.36218 c 0,59.17337 -32.49749,101.42857 1.42857,101.42857 33.92606,0 -1.42857,-39.39806 -1.42857,-98.57143 0,-59.17337 35.35463,-115.71429 1.42857,-115.71429 -33.92606,0 -1.42857,53.68378 -1.42857,112.85715 z"
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <g
          transform="matrix(0.98971759,0.14303527,-0.14303527,0.98971759,25.256988,69.396993)"
@@ -329,10 +330,10 @@
           <path
              sodipodi:nodetypes="csssc"
              id="path3550"
-             d="m -197.14285,498.07648 c 0,118.34673 -209.11812,208.57143 -301.42857,208.57143 -92.31044,0 -32.85714,-90.2247 -32.85714,-208.57143 0,-118.34674 74.83241,-214.28572 167.14285,-214.28572 92.31045,0 167.14286,95.93898 167.14286,214.28572 z"
+             d="m -532.60394,544.83868 c 34.7392,113.5042 261.78492,142.92905 350.31819,117.72002 88.533261,-25.20903 5.02836,-95.50582 -29.71084,-209.01001 -34.73919,-113.50421 -134.67128,-185.08158 -223.20454,-159.87255 -88.53328,25.20904 -132.142,137.65833 -97.40281,251.16254 z"
              style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
           <g
-             transform="matrix(0.33758175,0,0,0.34200799,-562.92159,225.1759)"
+             transform="matrix(-0.32376852,0.09219011,0.10039214,0.32801365,-261.89873,183.21428)"
              id="g3565">
             <path
                sodipodi:type="arc"
@@ -345,7 +346,7 @@
                d="m 519.99998,518.07648 c 0,105.72308 -75.47199,191.42857 -168.57142,191.42857 -93.09943,0 -168.57143,-85.70549 -168.57143,-191.42857 0,-105.72308 75.472,-191.42858 168.57143,-191.42858 93.09943,0 168.57142,85.7055 168.57142,191.42858 z" />
             <path
                sodipodi:type="arc"
-               style="color:#000000;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.59999989999999981;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               style="color:#000000;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
                id="path3559"
                sodipodi:cx="355.71429"
                sodipodi:cy="515.2193"
@@ -373,7 +374,7 @@
                d="m 291.42858,488.07648 c 0,2.36693 -1.27918,4.28571 -2.85714,4.28571 -1.57795,0 -2.85714,-1.91878 -2.85714,-4.28571 0,-2.36694 1.27919,-4.28572 2.85714,-4.28572 1.57796,0 2.85714,1.91878 2.85714,4.28572 z" />
           </g>
           <g
-             transform="matrix(0.33758175,0,0,0.34200799,-424.35015,243.74732)"
+             transform="matrix(-0.32376852,0.09219011,0.10039214,0.32801365,-389.34867,238.86823)"
              id="g3565-7">
             <path
                sodipodi:type="arc"
@@ -386,7 +387,7 @@
                d="m 519.99998,518.07648 c 0,105.72308 -75.47199,191.42857 -168.57142,191.42857 -93.09943,0 -168.57143,-85.70549 -168.57143,-191.42857 0,-105.72308 75.472,-191.42858 168.57143,-191.42858 93.09943,0 168.57142,85.7055 168.57142,191.42858 z" />
             <path
                sodipodi:type="arc"
-               style="color:#000000;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.59999989999999981;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+               style="color:#000000;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
                id="path3559-3"
                sodipodi:cx="355.71429"
                sodipodi:cy="515.2193"
@@ -414,7 +415,7 @@
                d="m 291.42858,488.07648 c 0,2.36693 -1.27918,4.28571 -2.85714,4.28571 -1.57795,0 -2.85714,-1.91878 -2.85714,-4.28571 0,-2.36694 1.27919,-4.28572 2.85714,-4.28572 1.57796,0 2.85714,1.91878 2.85714,4.28572 z" />
           </g>
           <g
-             transform="matrix(0.66288695,0,0,0.53031596,-25.319351,391.92929)"
+             transform="matrix(-0.63576282,0.18102762,0.15566758,0.5086164,-728.5549,489.95808)"
              id="g3609">
             <path
                sodipodi:type="arc"
@@ -436,25 +437,25 @@
                d="m -559.99998,218.07646 c 0,44.18278 -32.61925,80 -72.85714,80 -40.23788,0 -72.85714,-35.81722 -72.85714,-80 0,-44.18278 32.61926,-80 72.85714,-80 40.23789,0 72.85714,35.81722 72.85714,80 z" />
           </g>
           <path
-             style="fill:none;stroke:#a40000;stroke-width:25.76260184999999936;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-             d="m -537.28565,612.1467 46.99041,-16.2042 -7.17879,52.28697 55.5475,-30.06776 -3.22235,61.9927 57.14864,-15.20674 -1.92681,-0.33478"
+             style="fill:none;stroke:#a40000;stroke-width:25.76260185;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             d="m -172.89528,561.35185 -49.82419,-2.70856 22.23323,48.18703 -62.10061,-13.66799 21.28768,58.57608 -59.27397,1.0222 1.74969,-0.84727"
              id="path2891" />
           <path
              sodipodi:type="arc"
-             style="fill:none;stroke:#a40000;stroke-width:21.39999961999999911;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             style="fill:none;stroke:#a40000;stroke-width:21.39999962;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
              id="path3665"
              sodipodi:cx="376.28183"
              sodipodi:cy="467.0726"
              sodipodi:rx="2.5253813"
              sodipodi:ry="2.2728431"
              d="m 378.80721,467.0726 a 2.5253813,2.2728431 0 0 1 -4.61003,1.28286 l 2.08465,-1.28286 z"
-             transform="matrix(1.2131843,-0.16911401,0.17533097,1.1701667,-927.14087,181.20452)"
+             transform="matrix(-1.2131843,0.16911401,0.17533097,1.1701667,74.510118,41.577578)"
              sodipodi:start="0"
              sodipodi:end="2.5418489" />
         </g>
         <g
            id="g3652"
-           transform="matrix(0.98402765,0.17801571,-0.17801571,0.98402765,307.26066,-457.94348)">
+           transform="matrix(-0.89336161,0.44933844,0.44933844,0.89336161,-1343.9109,-219.31403)">
           <path
              sodipodi:nodetypes="csssc"
              id="path3631"
@@ -519,20 +520,22 @@
       </g>
       <rect
          y="526.64789"
-         x="-462.85715"
+         x="415.74814"
          height="77.14286"
          width="94.285713"
          id="rect3694"
-         style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <rect
          y="683.68127"
-         x="-674.3952"
+         x="204.21008"
          height="103.07616"
          width="91.647591"
          id="rect3697"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.38098502;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.38098502;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <g
-         transform="matrix(-0.5212992,0.72218465,0.6820532,0.49233086,-431.34344,132.79473)"
+         transform="matrix(0.5212992,0.72218465,-0.6820532,0.49233086,-447.26184,132.79473)"
          id="g3825">
         <g
            id="g3821"
@@ -564,34 +567,38 @@
       </g>
       <rect
          y="683.68127"
-         x="-377.25238"
+         x="501.35291"
          height="103.07616"
          width="91.647591"
          id="rect3697-3"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.38098502;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.38098502;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <rect
          y="926.64789"
-         x="-551.42859"
+         x="327.1767"
          height="145.71428"
          width="82.85714"
          id="rect3831"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <rect
          y="924.9809"
-         x="-427.38126"
+         x="451.22403"
          height="109.04817"
          width="83.333893"
          id="rect3831-3"
-         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.1232481;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.1232481;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <rect
          y="1032.3622"
-         x="-605.71429"
+         x="272.89099"
          height="74.285713"
          width="137.14285"
          id="rect3855"
-         style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,1)" />
       <g
-         transform="matrix(0.48429978,0,0,0.52744069,-572.56049,773.95883)"
+         transform="matrix(-0.48429978,0,0,0.52744069,-306.04479,773.95883)"
          id="g3862">
         <path
            style="color:#000000;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.5999999;stroke-miterlimit:4;stroke-opacity:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
