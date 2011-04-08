@@ -10,7 +10,8 @@ $gets_booty = !(substr_count($ip,":") > 0 && substr_count($ip,".") == 0);
 
   <link rel="shortcut icon" href="favicon-48x48.png" />
   <link rel="apple-touch-icon" href="favicon-129x129.png" />
-
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script>
   <style type="text/css">
 
 body {
@@ -164,7 +165,6 @@ p {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-  
   <div id=header>
     <h1>Can you get the Robot Pirate treasure?</h1>
   </div>
@@ -207,11 +207,23 @@ p {
       </tr>
       <tr>
         <td>
-          <img id=chest src="chest-closed.png" alt="Closed treasure chest">
+          <img id=chest src="chest-closed.png" alt="Closed treasure chest"
+            onClick="naughty();">
         </td>
       </tr>
     </table>
-
+    <!-- HTML5 gives us annoying audio now! -->
+    <audio id="song" autobuffer>
+      <source src="no-booty.mp3" type="audio/mpeg" />
+      <source src="no-booty.ogg" type="audio/ogg" />
+    </audio>
+    <script type="text/javascript">
+    function naughty() {
+      $('#pirate').effect('shake', { times:3 }, 200);
+      var song = document.getElementById('song');
+      song.play();
+    }
+    </script>
 <?php } ?>
   </div>
 
