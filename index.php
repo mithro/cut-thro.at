@@ -219,7 +219,7 @@ p {
     </audio>
     <script type="text/javascript">
     function naughty() {
-      $('#pirate').effect('shake', { times:3 }, 200);
+      $('#pirate').effect('shake', { times:8 }, 200);
       var song = document.getElementById('song');
       song.play();
     }
