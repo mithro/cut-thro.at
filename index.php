@@ -7,6 +7,9 @@ $gets_booty = !(substr_count($ip,":") > 0 && substr_count($ip,".") == 0);
 <head>  
   <meta charset="utf-8"/>  
   <title>Cut-thro.at - Your source of Robot Pirate treasure!</title>
+
+  <link rel="shortcut icon" href="favicon-48x48.png" />
+  <link rel="apple-touch-icon" href="favicon-129x129.png" />
 </head>  
   
 <body>
