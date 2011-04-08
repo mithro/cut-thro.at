@@ -1,7 +1,7 @@
 <?php
 
 $ip = getenv ("REMOTE_ADDR");
-$gets_booty = !(substr_count($ip,":") > 0 && substr_count($ip,".") == 0);
+$gets_booty = (substr_count($ip,":") > 0 && substr_count($ip,".") == 0);
 ?>
 <html>  
 <head>  
