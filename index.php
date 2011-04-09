@@ -2,6 +2,7 @@
 
 $ip = getenv ("REMOTE_ADDR");
 $gets_booty = (substr_count($ip,":") > 0 && substr_count($ip,".") == 0);
+$gets_booty = $gets_booty || $_SERVER['REQUEST_URI']=='/x-marks-the-spot';
 ?>
 <html>  
 <head>  
@@ -174,21 +175,21 @@ p {
     <table>
       <tr>
         <td rowspan=2>
-          <img id=pirate src="robo-pirate-happy.png" alt="Robot Pirate dancing with joy!">
+          <img id=pirate src="/m/robo-pirate-happy.png" alt="Robot Pirate dancing with joy!">
         </td><td>
           <blockquote id=speech class="oval-speech-border"><p>You get the booty!</p></blockquote>
         </td>
       </tr>
       <tr>
         <td>
-          <img id=chest src="chest-open.png" alt="Open treasure chest filled with booty!">
+          <img id=chest src="/m/chest-open.png" alt="Open treasure chest filled with booty!">
         </td>
       </tr>
     </table>
     <!-- HTML5 gives us annoying audio now! -->
     <audio id="song" autobuffer>
-      <source src="yohoho.mp3" type="audio/mpeg" />
-      <source src="yohoho.ogg" type="audio/ogg" />
+      <source src="/m/yohoho.mp3" type="audio/mpeg" />
+      <source src="/m/yohoho.ogg" type="audio/ogg" />
     </audio>
     <script>
       var song = document.getElementById('song');
@@ -198,7 +199,7 @@ p {
     <table>
       <tr>
         <td rowspan=2>
-          <img id=pirate src="robo-pirate-angry.png" alt="Robot Pirate!">
+          <img id=pirate src="/m/robo-pirate-angry.png" alt="Robot Pirate!">
         </td><td>
           <blockquote id=speech class="oval-speech-border">
             <p>No booty for you.<br><a href="http://www.getipv6.info">Get booty?</a></p>
@@ -207,15 +208,15 @@ p {
       </tr>
       <tr>
         <td>
-          <img id=chest src="chest-closed.png" alt="Closed treasure chest"
+          <img id=chest src="/m/chest-closed.png" alt="Closed treasure chest"
             onClick="naughty();">
         </td>
       </tr>
     </table>
     <!-- HTML5 gives us annoying audio now! -->
     <audio id="song" autobuffer>
-      <source src="no-booty.mp3" type="audio/mpeg" />
-      <source src="no-booty.ogg" type="audio/ogg" />
+      <source src="/m/no-booty.mp3" type="audio/mpeg" />
+      <source src="/m/no-booty.ogg" type="audio/ogg" />
     </audio>
     <script type="text/javascript">
     function naughty() {
